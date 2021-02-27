@@ -1,2 +1,3 @@
-# Hotel
-my site for hotel
+# Best tour plan — Hotel
+
+Выполнил Александр Давыдов
